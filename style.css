@@ -1,0 +1,108 @@
+/* ここからCSSを記述してください。 */
+.bg{
+    width: 100vw;
+    height: 100vh;
+}
+.card{
+    width: 360px;
+    height: 240px;
+
+}
+
+.name-width{
+    width: 300px;
+}
+.btn-width{
+    width: 140px;
+}
+
+.box{
+    width: 80%;
+    height: 80%;
+    padding: 1%;
+}
+
+.bg-blue{
+    background-color: rgb(99, 127, 168);
+}
+.align-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.half-box{
+    height: 100%;
+    width: 33%;
+    padding: 1%;
+}
+.left-box{
+    height: 100%;
+    width: 66%;
+    padding: 1%;
+}
+.small-box{
+    height: 15%;
+}
+.detail-box{
+    height: 40%;
+    width: 48%;
+}
+.row-items{
+    display: flex;
+}
+.user-info{
+    height: 25%;
+    width: 100%;
+}
+
+.scroll {
+  width: 100%;                /* 横幅を200pxに指定 */
+  height: 75%;               /* 横幅を200pxに指定 */
+  border: black;     /* わかりやすくボーダーを引く */
+  overflow-y: scroll;          /* 縦方向にスクロール可能にする */
+}
+.item-detail{
+    width: 100%;                /* 横幅を200pxに指定 */
+  height: 75%; 
+}
+.itembox{
+    margin-bottom: 2px;
+    height: 30%;
+    width: 100%;
+    background-color: rgb(99, 127, 168);
+}
+.item-img{
+    width: 100px;                /* 横幅を200pxに指定 */
+    height: 50%; 
+}
+.input-number{
+    height: 10%;
+    width: 100%;
+}
+.hum-img{
+    height: 100%;
+    width: 80%;
+    margin: auto;
+}
+.items{
+    height: 90%;
+    width: 30%;
+}
+
+.full-box{
+    height: 100%;
+    width: 100%;
+}
+
+.box2{
+    width: 80%;
+    height: 60%;
+}
+.box3{
+    width: 100%;
+    height: 43%;
+}
+.max-width{
+    width: 100%;
+}
